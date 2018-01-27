@@ -1,18 +1,18 @@
 {
-    "id": "38d3f80d-d687-4677-9098-1745f3698c6a",
+    "id": "76a66072-8630-4328-b72f-8ba0ebb5fca8",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy_parent",
+    "name": "obj_enemy_generator",
     "eventList": [
         {
-            "id": "05600b9c-863b-4b54-9894-90ebe3fefda2",
+            "id": "ee660c04-64b7-4969-a91c-8f1988bd3428",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "38d3f80d-d687-4677-9098-1745f3698c6a"
+            "eventtype": 3,
+            "m_owner": "76a66072-8630-4328-b72f-8ba0ebb5fca8"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,7 +33,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "4d0de410-8426-429b-ba0d-0dd60b4dfb37",
+            "id": "45328364-447f-4c72-ad6b-74b9b1099ec7",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -42,8 +42,8 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "2",
-            "varName": "damage",
+            "value": "0",
+            "varName": "i",
             "varType": 1
         }
     ],

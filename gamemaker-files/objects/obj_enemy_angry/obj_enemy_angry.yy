@@ -7,7 +7,9 @@
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
+    "overriddenProperties": [
+        
+    ],
     "parentObjectId": "38d3f80d-d687-4677-9098-1745f3698c6a",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -33,7 +35,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "2",
+            "value": "5",
             "varName": "hp",
             "varType": 1
         }
