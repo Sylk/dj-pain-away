@@ -15,12 +15,12 @@
             "m_owner": "a9b5718a-0a6a-482b-b6a0-0af73dbe1ec6"
         },
         {
-            "id": "c60beb3d-82ba-4210-a67d-39ea9444343f",
+            "id": "c2828a8b-fd79-4918-a7d5-44b7a2b0a4e5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 2,
+            "enumb": 0,
             "eventtype": 3,
             "m_owner": "a9b5718a-0a6a-482b-b6a0-0af73dbe1ec6"
         }
@@ -54,7 +54,7 @@
             "resourceFilter": 1023,
             "value": "1",
             "varName": "damage",
-            "varType": 0
+            "varType": 1
         },
         {
             "id": "be91f1f1-9f21-4476-935d-b6229e550168",
@@ -66,9 +66,23 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "1",
+            "value": "2",
             "varName": "slow",
-            "varType": 0
+            "varType": 1
+        },
+        {
+            "id": "f466d666-27af-4408-b0aa-c6c1c7fdb7fb",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "i",
+            "varType": 1
         }
     ],
     "solid": false,

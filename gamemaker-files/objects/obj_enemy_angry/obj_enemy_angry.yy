@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_enemy_angry",
     "eventList": [
-        
+        {
+            "id": "9174693e-aa05-4dcf-9a8c-5d1140de99c2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "a9997fed-8c8d-4540-9e13-f6b1538c5d54"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
@@ -25,20 +34,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "b4842a36-17ff-4cfc-97a7-86a6ba416387",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "5",
-            "varName": "hp",
-            "varType": 1
-        }
+        
     ],
     "solid": false,
     "spriteId": "a843fe82-6d0a-4cda-9814-01ba8816707e",
