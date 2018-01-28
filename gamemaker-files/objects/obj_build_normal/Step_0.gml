@@ -1,2 +1,2 @@
 x = mouse_x;
-y = mouse_y;
+y = mouse_y - 50;

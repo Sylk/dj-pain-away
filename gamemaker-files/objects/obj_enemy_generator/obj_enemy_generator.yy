@@ -13,6 +13,26 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "76a66072-8630-4328-b72f-8ba0ebb5fca8"
+        },
+        {
+            "id": "3de3c403-ef13-48c3-bbe3-daad19d92a81",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "76a66072-8630-4328-b72f-8ba0ebb5fca8"
+        },
+        {
+            "id": "41e1c5cb-0e79-4795-936f-51cda18cb0a0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 1,
+            "m_owner": "76a66072-8630-4328-b72f-8ba0ebb5fca8"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -44,6 +64,34 @@
             "resourceFilter": 1023,
             "value": "0",
             "varName": "i",
+            "varType": 1
+        },
+        {
+            "id": "81626bf1-2147-4633-823a-0342ee875d57",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "enemies_made",
+            "varType": 1
+        },
+        {
+            "id": "1e1e37a7-1b52-4eb1-8be5-b92bf36e0390",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "10",
+            "varName": "max_enemies",
             "varType": 1
         }
     ],

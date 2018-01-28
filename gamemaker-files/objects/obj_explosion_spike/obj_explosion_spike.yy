@@ -5,16 +5,6 @@
     "name": "obj_explosion_spike",
     "eventList": [
         {
-            "id": "17598cc1-0b21-4249-a332-52fe36609e4d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "7fda5f54-2dd9-4d73-8c36-d4d537723238"
-        },
-        {
             "id": "b8862b56-502d-448d-8435-41cf1af16514",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -22,6 +12,16 @@
             "collisionObjectId": "38d3f80d-d687-4677-9098-1745f3698c6a",
             "enumb": 0,
             "eventtype": 4,
+            "m_owner": "7fda5f54-2dd9-4d73-8c36-d4d537723238"
+        },
+        {
+            "id": "6363476c-a5fe-4e5c-9c6a-f41567f533b4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 3,
             "m_owner": "7fda5f54-2dd9-4d73-8c36-d4d537723238"
         }
     ],
