@@ -605,6 +605,14 @@
                 "resourcePath": "views\\fe35cc99-d510-4999-9b4a-59665a2964a3.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "fe5cbde9-00d5-4f02-b64e-de9f1088c769",
+            "Value": {
+                "id": "88495ad7-b105-447a-9090-79a3935f3b97",
+                "resourcePath": "sprites\\spr_title_screen\\spr_title_screen.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
