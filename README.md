@@ -8,6 +8,10 @@
 * Upside down
 * Feathered Friends
 
+## Technology
+
+This game was created with Game Maker Studio 2. We heavily encourage the use of this software when you have things to do quickly and a game jam is the perfect place to flex your skills.
+
 ## Team Info
 
 This game is a collaboration from PowerPinch and SmoozePuncher at Global Game Jam 2018. 
