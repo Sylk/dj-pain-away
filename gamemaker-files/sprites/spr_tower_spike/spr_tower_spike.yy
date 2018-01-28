@@ -2,7 +2,7 @@
     "id": "f82ac278-28d9-46d0-bd18-6e05b1f3fd06",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_tower_pierce",
+    "name": "spr_tower_spike",
     "For3D": false,
     "HTile": false,
     "VTile": false,

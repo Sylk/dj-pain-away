@@ -2,9 +2,28 @@
     "id": "b5c940d3-883f-4b4b-ba28-a373b179eba2",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_tower_pierce",
+    "name": "obj_tower_spike",
     "eventList": [
-        
+        {
+            "id": "16ea3979-c30f-41df-9715-b43633800278",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b5c940d3-883f-4b4b-ba28-a373b179eba2"
+        },
+        {
+            "id": "eb5da85d-979d-4e55-a8c5-ba651c305a78",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "b5c940d3-883f-4b4b-ba28-a373b179eba2"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

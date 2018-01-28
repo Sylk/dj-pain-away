@@ -1,38 +1,28 @@
 {
-    "id": "b4d953b1-e0ba-4279-8050-f9f607cacce6",
+    "id": "8d47dc90-3a40-4ecc-8e8d-4c45a708d01c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_dj_pain_away",
+    "name": "obj_buy_slow",
     "eventList": [
         {
-            "id": "b0614fba-f780-4ef9-958b-a0dfa1469dd4",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "38d3f80d-d687-4677-9098-1745f3698c6a",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "b4d953b1-e0ba-4279-8050-f9f607cacce6"
-        },
-        {
-            "id": "199e03b5-2fb0-4dcb-b047-6b74324f15d5",
+            "id": "627bcfa0-2434-45a5-b309-ec5b0370cc42",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "b4d953b1-e0ba-4279-8050-f9f607cacce6"
+            "m_owner": "8d47dc90-3a40-4ecc-8e8d-4c45a708d01c"
         },
         {
-            "id": "f04b12f4-ec98-45df-ab7d-872c0fdbf563",
+            "id": "e1b0adf0-a0b8-40d9-b63a-9a1aea0a12b9",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "b4d953b1-e0ba-4279-8050-f9f607cacce6"
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "8d47dc90-3a40-4ecc-8e8d-4c45a708d01c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,7 +43,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "10dd8e3b-c19e-4859-b8c4-48a1b915149a",
+            "id": "a280e7b2-eac1-4802-ae41-69bba51c6ebb",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -62,12 +52,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
-            "varName": "hp",
-            "varType": 0
+            "value": "200",
+            "varName": "price",
+            "varType": 1
         }
     ],
     "solid": false,
-    "spriteId": "cdbbc655-da3a-40c5-b829-d46e57ca64fc",
+    "spriteId": "4440ca6c-8d9c-46d6-a8a9-f4a6c8fba058",
     "visible": true
 }
